@@ -45,7 +45,7 @@ See [Get started with Quarto](https://quarto.org/docs/get-started/) and the [Qua
 
 ### Things to edit
 
--   Do a find and replace everywhere (cmd + shift + F in RStudio) for the following: "GROUP_NAME", "PI_NAME", and "PI_EMAIL".
+-   Do a find and replace everywhere (cmd + shift + F in RStudio) for the following: "GROUP_NAME", "Edmond Kwan", and "PI_EMAIL".
 
 -   Edit the `repo_url:` key in `_quarto.yml` to be the URL to *your* copy of this template on *your* GitHub organization or account
 
