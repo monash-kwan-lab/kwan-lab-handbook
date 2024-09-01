@@ -1,4 +1,4 @@
-# group-handbook-template
+# Kwan Lab Handbook
 
 <!-- badges: start -->
 
